@@ -1,0 +1,37 @@
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.dll
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.pdb
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.dll
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.pdb
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.dll
+C:\Users\461030\documents\visual studio 2010\Projects\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.pdb
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.dll
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.pdb
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.dll
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.pdb
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.csprojResolveAssemblyReference.cache
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.dll
+C:\Users\Jish\Desktop\Gift Delivery Management\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.pdb
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.dll
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.pdb
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.dll
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.pdb
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.csprojResolveAssemblyReference.cache
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.dll
+F:\Projects\updateWeb\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.pdb
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Business.pdb
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\PdfSharp.Charting.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\PdfSharp.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\Gift.Data.pdb
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.dll
+C:\Users\461030\Downloads\Projects\Projects\jishnu\Gift Delivery Management\Gift.Business\obj\Debug\Gift.Business.pdb

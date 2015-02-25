@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gift Delivery Management", "Gift Delivery Management\Gift Delivery Management.csproj", "{4513639A-1AD8-4F6F-A762-C6E291F20F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gift.Data", "Gift.Data\Gift.Data.csproj", "{C7542249-340D-4066-B922-832DBFDDC201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gift.Business", "Gift.Business\Gift.Business.csproj", "{F107655C-9897-47FC-A4E8-C2343B85C107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4513639A-1AD8-4F6F-A762-C6E291F20F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4513639A-1AD8-4F6F-A762-C6E291F20F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4513639A-1AD8-4F6F-A762-C6E291F20F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4513639A-1AD8-4F6F-A762-C6E291F20F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7542249-340D-4066-B922-832DBFDDC201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7542249-340D-4066-B922-832DBFDDC201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7542249-340D-4066-B922-832DBFDDC201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7542249-340D-4066-B922-832DBFDDC201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F107655C-9897-47FC-A4E8-C2343B85C107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F107655C-9897-47FC-A4E8-C2343B85C107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F107655C-9897-47FC-A4E8-C2343B85C107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F107655C-9897-47FC-A4E8-C2343B85C107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
